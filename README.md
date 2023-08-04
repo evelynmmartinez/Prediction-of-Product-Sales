@@ -4,7 +4,8 @@
 #### Data:
 ##### Data Dictionary
 ##### Source of data:https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
-<img width="528" alt="data_dictionary" src="https://github.com/evelynmmartinez/Prediction-of-Product-Sales/assets/136510004/379ccacd-532a-4b71-957b-ceb33d770903">
+<img width="528" alt="data_dictionary" src="https://github.com/evelynmmartinez/Prediction-of-Product-Sales/assets/136510004/379ccacd-532a-4b71-957b-ceb33d770903">\
+
 #### Methods
 *
 *
@@ -15,8 +16,9 @@
 ![item_visibility](https://github.com/evelynmmartinez/Prediction-of-Product-Sales/assets/136510004/d691b3a3-e3c4-4326-b00d-1d9f4fa58520)
 
 
-#### Below is a figure showing the number of stores
-![outlet_identifier](https://github.com/evelynmmartinez/Prediction-of-Product-Sales/assets/136510004/e1bb7687-4a66-4b4d-89e2-1188788d0041)
+#### Below is a figure showing the count of items by Category type
+![item_type](https://github.com/evelynmmartinez/Prediction-of-Product-Sales/assets/136510004/eb5c553d-3455-46ec-a0d2-6d6d29116af3)
+
 
 #### Model
 

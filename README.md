@@ -27,5 +27,31 @@ To gain initial insights, we have created two key visualizations:
 Our analysis has led to valuable insights into sales patterns and trends. Through rigorous modeling and fine-tuning, we selected the Random Forest model as the optimal choice for predicting product sales. After tuning, this model exhibited improved performance metrics, including a reduced Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE), indicating more accurate predictions. 
 
 ### Linear Regression Coefficient Plot:
- ![coefficients_top15.png]
+![coefficients_top15](https://github.com/evelynmmartinez/Prediction-of-Sales/assets/136510004/7a813c2a-1cf1-428f-8643-9efa000013ba)
  
+**The top three most important coefficients are:**
+
+- Outlet_Type_Supermarket_Type3: The model shows that Supermarket Type 3 significantly impacts sales compared to other store types. It suggests around 1,590 more units sold in this kind of supermarket compared to the rest.
+
+- Outlet_Type_Supermarket_Type1: Similarly, Supermarket Type 1 also has a positive effect on sales, with around 234 more units sold compared to other types of supermarkets in the dataset.
+
+- Item_Type_Seafood: The model indicates that 'Seafood' items sell about 95 more units compared to other types of food items.
+  
+### Feature Importance - Decision Tree Regressor
+![feature importance_dec tree regressor](https://github.com/evelynmmartinez/Prediction-of-Sales/assets/136510004/b8c82d94-a930-465e-993a-c471d67be128)
+
+ Item_MRP: This feature is the most critical according to the model. The (MRP) has the highest impact, indicating that price variations significantly influence sales.
+
+Outlet_Type_Grocery Store: The type of outlet being a "Grocery Store" holds the second most substantial importance in predicting sales. 
+
+Item_Visibility: The visibility of items in stores plays a notable role. It suggests that higher visibility or exposure of items positively influences their sales.
+
+Outlet_Type_Supermarket Type3: This outlet type has moderate importance in predicting sales. Items sold in this supermarket significantly impact the sales.
+
+Item_Weight: The weight of the item also holds moderate importance (importance score of 0.0534) in predicting sales. 
+
+Outlet_Establishment_Year: The year of establishment of the outlet carries some importance, suggesting a moderate effect on sales predictions.
+
+Outlet_Size, Outlet_Location_Type, Item_Type_Fruits and Vegetables, Item_Type_Snack Foods, and others: These features have lower importance scores, indicating a comparatively lesser influence on the predicted outcome
+![image](https://github.com/evelynmmartinez/Prediction-of-Sales/assets/136510004/10abd423-09bf-49b4-9706-61cbf7b1f795)
+

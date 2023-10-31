@@ -27,5 +27,9 @@ To gain initial insights, we have created two key visualizations:
 Our analysis has led to valuable insights into sales patterns and trends. Through rigorous modeling and fine-tuning, we selected the Random Forest model as the optimal choice for predicting product sales. After tuning, this model exhibited improved performance metrics, including a reduced Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE), indicating more accurate predictions. 
 
 ### Linear Regression Coefficient Plot:
- ![coefficients_top15.png]
+![coefficients_top15](https://github.com/evelynmmartinez/Prediction-of-Sales/assets/136510004/7a813c2a-1cf1-428f-8643-9efa000013ba)
+
+### Feature Importance - Decision Tree Regressor
+![feature importance_dec tree regressor](https://github.com/evelynmmartinez/Prediction-of-Sales/assets/136510004/b8c82d94-a930-465e-993a-c471d67be128)
+
  

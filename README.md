@@ -55,3 +55,8 @@ Outlet_Establishment_Year: The year of establishment of the outlet carries some 
 Outlet_Size, Outlet_Location_Type, Item_Type_Fruits and Vegetables, Item_Type_Snack Foods, and others: These features have lower importance scores, indicating a comparatively lesser influence on the predicted outcome
 ![image](https://github.com/evelynmmartinez/Prediction-of-Sales/assets/136510004/10abd423-09bf-49b4-9706-61cbf7b1f795)
 
+### summary plot - bar version
+
+### a summary plot - dot version
+
+

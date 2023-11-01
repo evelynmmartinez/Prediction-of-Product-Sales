@@ -1,5 +1,5 @@
 # **Prediction of Product Sales for Big Mart**
-## **Big Mart's prediction of Sales**
+## **Big Mart's Prediction of Sales**
 ### **Author:** Evelyn Martinez
 
 ### **Project Overview:**

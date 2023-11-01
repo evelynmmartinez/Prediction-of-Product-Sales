@@ -1,5 +1,5 @@
 # **Prediction of Product Sales for Big Mart**
-## **Big Mart's prediction of Sales**
+## **Big Mart's Prediction of Sales**
 ### **Author:** Evelyn Martinez
 
 ### **Project Overview:**
@@ -57,6 +57,15 @@ Outlet_Size, Outlet_Location_Type, Item_Type_Fruits and Vegetables, Item_Type_Sn
 
 ### summary plot - bar version
 
+![shap_explained](https://github.com/evelynmmartinez/Prediction-of-Sales/assets/136510004/0a830a7b-5074-40f1-abe3-76dbbdb71dbd)
+**SHAP vs. your original feature importances**
+
+- The features with the same rank are Item_MRP and Outlet_Type_Grocery Store. The only third feature in this model is Outlet_Type_Supermarket Type 3 and in the feature importance model, it was Item_Visibility. 
+
 ### a summary plot - dot version
 
+![shap_summary_dot](https://github.com/evelynmmartinez/Prediction-of-Sales/assets/136510004/eba1fdd0-c071-432c-a828-42e0c2553003)
+- The Item_MRP is the most impactful feature, suggesting a prediction of more sales in relation to the Item_MRP. 
+- The Outlet_Type_Grocery Store has a negative distribution in the plot. Suggesting this type of outlet impacts the sales negatively. 
+- The Outlet_Type_Supermarket Type 3 skews more towards a positive prediction of sales if the outlet is a type 3. 
 

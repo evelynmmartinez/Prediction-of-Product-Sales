@@ -69,6 +69,23 @@ Outlet_Size, Outlet_Location_Type, Item_Type_Fruits and Vegetables, Item_Type_Sn
 - The Outlet_Type_Grocery Store has a negative distribution in the plot. Suggesting this type of outlet impacts the sales negatively. 
 - The Outlet_Type_Supermarket Type 3 skews more towards a positive prediction of sales if the outlet is a type 3. 
 
-
+# **Explanations for Low Sales**
 ## Lime Tabular Explanation
-![]('images/low_sales_lime_exp.png)
+<img width="901" alt="lime_tabular_low_sales" src="https://github.com/evelynmmartinez/Prediction-of-Sales/assets/136510004/c51672d9-c08d-4832-bf64-f623c72e258b">
+
+- The feature with the highest value that predicts higher sales is the Outlet_Type_Supermarket Type3.
+  
+## Force Plot 
+<img width="942" alt="forceplot_low_sales" src="https://github.com/evelynmmartinez/Prediction-of-Sales/assets/136510004/dac7458b-76ce-4bc0-9a8c-86b2c44126ee">
+
+- The blue bar indicates biggest contributors to low sales are Outlet_Type_Grocery Store and Item_MRP.
+  
+  # **Explanations for High Sales**
+  
+  ## Lime Tabular Explanation
+  <img width="897" alt="lime_tabular_high_sales" src="https://github.com/evelynmmartinez/Prediction-of-Sales/assets/136510004/9b85df47-9287-49bb-b5e0-d3d504778fb7">
+- The feature with the highest value that predicts higher sales is the Outlet_Type_Supermarket Type3.  
+  ## Force Plot 
+<img width="937" alt="forceplot_high_sales" src="https://github.com/evelynmmartinez/Prediction-of-Sales/assets/136510004/8f17ba53-2ff6-4726-be8e-e9f798c0cf5f">
+
+- The red bar overwhelmingly indicates that the biggest contributors to impacting sales in the Outlet_Type_Supermarket Type3 and Item_MRP.

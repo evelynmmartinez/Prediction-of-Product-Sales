@@ -69,3 +69,6 @@ Outlet_Size, Outlet_Location_Type, Item_Type_Fruits and Vegetables, Item_Type_Sn
 - The Outlet_Type_Grocery Store has a negative distribution in the plot. Suggesting this type of outlet impacts the sales negatively. 
 - The Outlet_Type_Supermarket Type 3 skews more towards a positive prediction of sales if the outlet is a type 3. 
 
+
+## Lime Tabular Explanation
+![]('images/low_sales_lime_exp.png)
